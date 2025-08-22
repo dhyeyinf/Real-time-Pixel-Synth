@@ -11,15 +11,15 @@
 
 > **Scan Sequencer** is an interactive web-based music sequencer that uses real-time computer vision to transform your camera feed into a dynamic musical instrument. Move in front of your camera and watch as color changes trigger musical notes that travel across your screen!
 
-## 🌟 Features
+##  Features
 
-- **🎥 Real-time Computer Vision**: Uses your webcam to detect movement and color changes
-- **🎹 Virtual Keyboard**: Vertical detection zones act as piano keys
-- **🎵 Dynamic Music Generation**: Creates music in real-time based on your movements
-- **🌈 Visual Feedback**: Beautiful particle system with traveling sound waves
-- **🔒 Privacy First**: All processing happens locally - no data leaves your device
-- **📱 Cross-Platform**: Works on desktop and mobile browsers
-- **🎨 Customizable**: Easy to modify scales, sounds, and visual effects
+- **Real-time Computer Vision**: Uses your webcam to detect movement and color changes
+- **Virtual Keyboard**: Vertical detection zones act as piano keys
+- **Dynamic Music Generation**: Creates music in real-time based on your movements
+- **Visual Feedback**: Beautiful particle system with traveling sound waves
+- **Privacy First**: All processing happens locally - no data leaves your device
+- **Cross-Platform**: Works on desktop and mobile browsers
+- **Customizable**: Easy to modify scales, sounds, and visual effects
 
 ## 🚀 Live Demo
 
@@ -121,23 +121,23 @@ Camera Input → P5.js Analysis → Custom Logic → Tone.js Synthesis → Web A
 
 ```
 Visionbeats/
-├── 📄 index.html              # Main application entry point
-├── 📄 privacypolicy.html      # Privacy policy and data handling
-├── 📄 README.md               # Project documentation
-├── 🖼️ capture.jpg             # Demo screenshot
-├── 🖼️ icon.jpg                # Project icon
-├── 📁 js/
-│   ├── 🎵 script.js           # Main application logic
-│   ├── 📚 p5.min.js           # P5.js library
-│   ├── 📚 p5.dom.min.js       # P5.js DOM utilities
-│   ├── 🎼 Tone.js             # Audio synthesis library
-│   └── 🍪 cookieinfo.min.js   # Cookie consent management
-├── 📁 css/
-│   └── 🎨 main.css            # Application styles
-└── 📄 .gitignore              # Git ignore rules
+├── index.html              # Main application entry point
+├── privacypolicy.html      # Privacy policy and data handling
+├── README.md               # Project documentation
+├── capture.jpg             # Demo screenshot
+├── icon.jpg                # Project icon
+├── js/
+│   ├── script.js           # Main application logic
+│   ├── p5.min.js           # P5.js library
+│   ├── p5.dom.min.js       # P5.js DOM utilities
+│   ├── Tone.js             # Audio synthesis library
+│   └── cookieinfo.min.js   # Cookie consent management
+├── css/
+│   └── main.css            # Application styles
+└── .gitignore              # Git ignore rules
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, Edge)
@@ -177,7 +177,7 @@ Visionbeats/
 - **Smooth Movements**: Fluid gestures create more musical results
 - **Experiment**: Try different speeds, gestures, and positions
 
-## 🎨 Customization
+## Customization
 
 ### Modify Musical Scale
 ```javascript
@@ -200,7 +200,7 @@ const synth = new Tone.FMSynth().toDestination();
 // Try: AMSynth, MonoSynth, DuoSynth, PluckSynth
 ```
 
-## 🔬 Technical Deep Dive
+##  Technical Deep Dive
 
 ### Performance Optimizations
 - **Pixel Sampling**: Only analyzes every nth pixel for efficiency
@@ -227,12 +227,12 @@ const synth = new Tone.FMSynth().toDestination();
 We welcome contributions! Here's how you can help:
 
 ### Areas for Contribution
-- 🎵 **New Synthesizer Types**: Add more Tone.js instruments
-- 🎨 **Visual Effects**: Enhance the particle system
-- 🔧 **Performance**: Optimize computer vision algorithms
-- 📱 **Mobile UX**: Improve mobile device experience
-- 🎼 **Music Theory**: Add scales, chord progressions
-- 🐛 **Bug Fixes**: Report and fix issues
+- **New Synthesizer Types**: Add more Tone.js instruments
+- **Visual Effects**: Enhance the particle system
+- **Performance**: Optimize computer vision algorithms
+- **Mobile UX**: Improve mobile device experience
+- **Music Theory**: Add scales, chord progressions
+- **Bug Fixes**: Report and fix issues
 
 ### Development Workflow
 1. Fork the repository
@@ -258,7 +258,7 @@ We welcome contributions! Here's how you can help:
 | High CPU usage | Lower camera resolution in browser settings |
 | Delayed response | Check lighting and background contrast |
 
-## 🗺️ Roadmap
+##  Roadmap
 
 ### Version 2.0 (Planned)
 - [ ] **Multi-user Sessions**: Collaborative music making
@@ -282,18 +282,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 MIT License - Feel free to use, modify, and distribute!
 ```
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- **[The Coding Train](https://thecodingtrain.com/)** - Inspiration for creative coding
 - **[P5.js Community](https://p5js.org/community/)** - Amazing creative coding framework
 - **[Tone.js Team](https://tonejs.github.io/)** - Incredible Web Audio library
 - **Computer Vision Researchers** - For making real-time CV accessible
 - **Web Audio API Developers** - For enabling audio in the browser
 
-## 📞 Support & Contact
+##  Support & Contact
 
-- 🐛 **Bug Reports**: [Open an Issue](https://github.com/YOUR_USERNAME/Real-time-Pixel-Synth/issues)
-- 💡 **Feature Requests**: [Discussions](https://github.com/YOUR_USERNAME/Real-time-Pixel-Synth/discussions)
+- **Bug Reports**: [Open an Issue](https://github.com/YOUR_USERNAME/Real-time-Pixel-Synth/issues)
+- **Feature Requests**: [Discussions](https://github.com/YOUR_USERNAME/Real-time-Pixel-Synth/discussions)
 
 
 ---
