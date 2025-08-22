@@ -100,8 +100,6 @@ function positionToFrequency(x, screenWidth) {
 - **[P5.js](https://p5js.org/)** - Creative coding framework for camera access and visual processing
 - **[Tone.js](https://tonejs.github.io/)** - Web Audio framework for real-time audio synthesis
 - **Vanilla JavaScript** - Core application logic and event handling
-- **HTML5 Canvas** - High-performance graphics rendering
-- **WebRTC** - Camera access and media streaming
 
 ### Audio Architecture
 ```
