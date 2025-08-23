@@ -2,7 +2,7 @@
 
 **Transform your movements into music with real-time computer vision**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-brightgreen?style=for-the-badge)]([YOUR_GITHUB_PAGES_URL_HERE](https://dhyeyinf.github.io/Real-time-Pixel-Synth/))
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-brightgreen?style=for-the-badge)]([(https://dhyeyinf.github.io/Real-time-Pixel-Synth/)])
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Built with P5.js](https://img.shields.io/badge/Built_with-P5.js-ED225D?style=flat-square&logo=p5.js)](https://p5js.org/)
 [![Powered by Tone.js](https://img.shields.io/badge/Audio-Tone.js-yellow?style=flat-square)](https://tonejs.github.io/)
@@ -23,7 +23,7 @@
 
 ## 🚀 Live Demo
 
-**[Try Scan Sequencer Now →](YOUR_GITHUB_PAGES_URL_HERE)**
+**[Try Scan Sequencer Now →](https://dhyeyinf.github.io/Real-time-Pixel-Synth/)**
 
 *Grant camera permissions and start moving to create music!*
 
